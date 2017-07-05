@@ -9,5 +9,15 @@
             "name": "clementine",
             "email": "clementine.thornary@gmail.com"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Test\\": "tests/"
+        }
+    }
 }
