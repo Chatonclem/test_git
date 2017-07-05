@@ -1,0 +1,13 @@
+{
+    "name": "clem/test_git",
+    "require": {
+        "phpunit/phpunit": "^6.2",
+        "friendsofphp/php-cs-fixer": "^2.3"
+    },
+    "authors": [
+        {
+            "name": "clementine",
+            "email": "clementine.thornary@gmail.com"
+        }
+    ]
+}
